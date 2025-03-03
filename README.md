@@ -12,7 +12,7 @@ Maven для сборки проекта.
 Установка и запуск
 1. Клонирование репозитория
 Для начала, клонируй репозиторий на свою машину:
-git clone https://github.com/evgenygerasimov/hibernate_final.git
+git clone https://github.com/evgenygerasimov/hibernate_final.git 
 cd hibernate_final
 
 2. Сборка приложения
